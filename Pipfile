@@ -10,6 +10,9 @@ pipenv = "*"
 python-dotenv = "*"
 psycopg2-binary = "*"
 pylint = "*"
+pandas = "*"
+pymongo = "*"
+dnspython = "*"
 
 [requires]
 python_version = "3.8"
